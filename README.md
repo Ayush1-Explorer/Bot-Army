@@ -9,9 +9,9 @@ Welcome to the ChatBot Playground! 🤖 This repository hosts an exciting collec
 - Utilizes speech recognition and text-to-speech functionalities to create an interactive conversational AI.
 - Engages users in dialogue, responds to queries, and provides utility functions such as fetching the current time.
 
-## OpenAI GPT-3 ChatBot:
+## ChatBot:
 
-- Integrates with OpenAI's GPT-3 model to generate responses based on user input.
+- Chatbot to generate responses based on user input.
 - Creates dynamic conversations tailored to specific contexts, such as financial expertise in real estate investment and negotiation.
 
 ## Custom ChatGPT using Gradio:
