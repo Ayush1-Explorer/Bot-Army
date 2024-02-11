@@ -35,7 +35,7 @@ Welcome to the ChatBot Playground! 🤖 This repository hosts an exciting collec
 
 - Navigate to the respective chatbot directory.
 - Execute the Python script using `python <script_name>.py`.
-- Follow the instructions to interact with the chatbots and explore their features.
+- Follow the basic instructions to interact with the chatbots and explore their features.
 
 ### Explore and Customize:
 
